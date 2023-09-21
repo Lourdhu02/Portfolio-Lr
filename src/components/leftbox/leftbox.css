@@ -1,0 +1,33 @@
+.left_box{
+  width: 45%;
+  text-align: center;
+  text-align: center;  align-items: center;
+  font-size: 16px;
+
+}
+.brand{
+  font-size: 250px;
+  display: flex;
+  margin-top: 125px;
+  margin-left: 150px;
+}
+.l_{
+  border: 2px solid black;
+  width: 150px;
+}
+.r_{
+  border: 2px solid gray;
+  border-radius: 125px;
+  width: 250px;
+  height: 250px;
+  background-color: black;
+  color: white;
+}
+.info{
+  display: flex;
+  justify-content: center;
+  text-align: left;
+}
+.det_me{
+  margin: 25px;
+}

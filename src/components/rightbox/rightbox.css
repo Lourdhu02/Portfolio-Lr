@@ -1,0 +1,16 @@
+.animated_logo{
+  width: 700px;
+  animation: rotateY-anim 25s linear infinite;
+}
+@keyframes rotateY-anim {
+	0% {
+		transform: rotateY(0deg);
+    transform: rotateX(0deg);
+
+	}
+
+	100% {
+		transform: rotateZ(360deg);
+    
+	}
+}

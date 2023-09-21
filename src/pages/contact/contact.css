@@ -1,0 +1,51 @@
+.contact_page{
+  padding: 7px;
+}
+.contact_circle{
+  border: 1px solid black;
+  height: 600px;
+  width: 600px;
+  border-radius: 300px;
+  margin-left:400px ;
+  margin-top: 50px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.contact_circle  {
+  transition: transform .5s ease;
+}
+
+
+.contact_circle:hover {
+  color: darkgray;
+  transform: scale(0.8);
+}
+
+.contact_mesg  {
+  transition: transform .5s ease;
+}
+
+
+.contact_mesg:hover {
+  color: darkgray;
+  transform: scale(1.2);
+}
+
+.contact_mesg{
+  font-size: 32px;
+  margin-top: 250px;
+}
+.link_m{
+  text-decoration: none;
+  color: black;
+}
+.link_m:hover{
+  color:darkgray
+}
+.info_me{
+  display: flex;
+  justify-content: right;
+}
+.inf{
+  margin:40px ;
+}

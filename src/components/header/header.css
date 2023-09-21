@@ -1,0 +1,26 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+  margin-top: -15px;
+}
+
+
+.portfolio_{
+  font-size: 36px;
+}
+.nav_link{
+  text-decoration: none;
+  color: black;
+}
+.nav_link:hover{
+  color: darkgray;
+}
+ul{
+  display: flex;
+}
+li{
+  list-style: none;
+  margin-right: 10px;
+}
+
+

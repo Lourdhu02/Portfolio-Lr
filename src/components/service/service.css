@@ -1,0 +1,51 @@
+.service_component{
+  display: grid;
+  padding: 7px;
+}
+.service_head{
+  text-align: left;
+  margin-bottom: 30px;
+}
+.my_self{
+  text-align: center;
+  font-size: 36px;
+  font-weight: lighter;
+  margin-bottom: 25px;
+}
+.sec_head{
+  text-align: left;
+  margin-bottom: 25px;
+}
+.ux_head_{
+  text-align: left;
+  font-size: 72px;
+  color: darkgray;
+  font-weight: lighter;
+  margin-bottom: 10px;
+
+}
+.ux_content{
+  text-align: right;
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+.web_head_{
+  text-align: left;
+  font-size: 72px;
+  color: darkgray;
+  font-weight: lighter;
+  margin-bottom: 10px;
+}
+.web_content{
+  text-align: right;
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+.intrest_{
+  margin-bottom: 30px;
+}
+.Brand_{
+  font-size: 72px;
+  color: darkgray;
+  font-weight: lighter;
+}

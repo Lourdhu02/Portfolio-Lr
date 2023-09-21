@@ -1,0 +1,14 @@
+.about_page{
+  display: grid;
+  padding: 7px;
+}
+.about_side_head{
+  text-align: start;
+  font-size: 14px;
+}
+.quote_me{
+  text-align: center;
+  font-size: 36px;
+  margin-top: 200px;
+  margin-bottom: 300px;
+}

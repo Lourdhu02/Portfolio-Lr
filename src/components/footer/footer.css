@@ -1,0 +1,16 @@
+.footer_content{
+  display: flex;
+  font-size: 14px;
+  justify-content: space-between;
+}
+.footer_{
+  margin-top: 100px;
+}
+.Email_{
+  text-decoration: none;
+  color: black;
+
+}
+.Email_:hover{
+  color: darkgray;
+}

@@ -1,0 +1,59 @@
+.webredesign_page{
+  padding: 7px;
+  
+
+}
+.web_head{
+  
+  background-image: url('../../assets/backg.jpg');
+  background: image width 100%;
+  opacity: 1.2;
+  padding: 7px;
+
+}
+.heading_{
+  font-size: 100px;
+  letter-spacing: 7px;
+  color: black;
+  font-weight: 200;
+  margin-top: 150px;
+}
+.ui_down{
+  margin-top: 175px;
+  text-align: center;
+  font-weight: 600;
+}
+.space_{
+  margin-top: 150px;
+}
+.main_info{
+  font-size: 42px;
+  font-weight: 200;
+  text-align: center;
+  margin-top: 150px;
+}
+.side_info{
+  font-size: 18px;
+  margin-top: 100px;
+  text-align: center;
+}
+.project_link{
+  margin-top: 150px;
+  margin-bottom: 100px;
+
+}
+.behance_link{
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 200;
+  color: black;
+  letter-spacing: 1px;
+  display: flex;
+  justify-content: space-between;
+}
+.p_head{
+  margin-bottom: 50px;
+}
+.behance_link:hover{
+  color: darkgray;
+}

@@ -1,0 +1,42 @@
+.recent_head{
+  font-size: 72px;
+  font-weight: lighter;
+}
+.recent_component{
+  padding: 7px;
+}
+.box_{
+  width: 100%;
+
+}
+.rec_w{
+  width: 350px;
+  height: 400px;
+  transition: transform .7s ease;  
+}
+
+.box_ ul li{
+   overflow: hidden;
+   
+}
+.box_ img:hover{
+  transform: scale(1.2);
+  opacity: 0.4;
+}
+.box_ ul{
+  margin-top: 50px;
+}
+.ex_img{
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 125px;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-weight: 200;
+  padding: 10px;
+  opacity: 1;
+  
+}
+
+
+

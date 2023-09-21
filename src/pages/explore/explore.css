@@ -1,0 +1,37 @@
+.explore_content{
+  text-align: left;
+  padding: 7px;
+}
+.side_head_explore{
+font-size: 14px;
+
+}
+
+.side_head_explore{
+  margin-bottom: 25px;
+}
+.explore_heading{
+  font-size: 82px;
+  position: relative;
+}
+.explore_info{
+  font-size: 36px;
+  text-align: end;
+  font-weight: lighter;
+}
+.select_work{
+  font-size: 14px;
+}
+.head_text{
+  font-size: 28px;
+  font-weight: 600;
+}
+._link_{
+  text-decoration: none;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+}
+._link_:hover{
+  color: darkgray;
+}

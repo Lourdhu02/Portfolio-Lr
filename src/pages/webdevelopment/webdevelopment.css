@@ -1,0 +1,73 @@
+.dev_me_info{
+  display: flex;
+  margin-top: 25px;
+  margin-bottom: 100px;
+}
+.logodesign_page{
+  padding: 7px;
+}
+.info_title{
+  width: 40%;
+  margin-top: 124px;
+  padding: 10px;
+}
+.my_pic{
+  width: 60%;
+  height: 100%;
+}
+.my_pic img{
+  width: 100%;
+  height: 100%;
+}
+.my_self_{
+  font-size: 20px;
+  font-weight: 200;
+  color: darkgray;
+}
+.react_{
+  font-size: 42px;
+  letter-spacing: 2px;
+}
+.about_{
+  font-size: 12px;
+  width: 100px;
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  
+}
+.about_:hover{
+  background-color: white;
+  color: darkgrey;
+}
+.why_me{
+  text-align: center;
+  margin-bottom: 100px;
+}
+.why_me div{
+  font-size: 36px;
+  margin-bottom: 50px;
+}
+.why_me p{
+  letter-spacing: 1px;
+  align-self: auto;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.why_react_{
+  text-align: center;
+  margin-bottom: 100px;
+}
+.why_react_ div{
+  font-size: 36px;
+  margin-bottom: 50px;
+}
+.why_react_ p{
+  letter-spacing: 1px;
+  align-self: auto;
+  font-size: 18px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,64 @@
+.Social_media{
+   display: grid;
+   text-align: center;
+
+}
+.social_head{
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+.social_content{
+  margin-bottom: 25px;
+  font-size: 32px;
+  font-weight: 400;
+}
+.link_a{
+  justify-content: space-between;
+  display: flex;
+  margin: 10px;
+  font-weight: 200;
+  font-size: 24px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  color: black;
+}
+.link_a:hover{
+  color: darkgray;
+}
+.arrow_icon{
+  margin-bottom: 20px;
+}
+
+.follow_me{
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.social_links{
+  display: grid;
+}
+.social_media_head{
+  text-align: left;
+  margin-bottom: 30px;
+
+  
+}
+.Links__{
+  display: flex;
+  justify-content: space-between;
+}
+
+.Image_me {
+  height: 400px; 
+  overflow: hidden; 
+}
+
+
+.Image_me img {
+  transition: transform .5s ease;
+}
+
+
+.Image_me:hover img {
+  transform: scale(1.2);
+}
